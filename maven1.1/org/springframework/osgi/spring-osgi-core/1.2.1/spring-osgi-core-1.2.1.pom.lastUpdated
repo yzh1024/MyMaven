@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:44 CST 2020
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074620868
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1596074623676
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-core\:pom\:1.2.1 from/to eclipse-repository (http\://repo1.maven.org/eclipse/)\: Failed to transfer file\: http\://repo1.maven.org/eclipse/org/springframework/osgi/spring-osgi-core/1.2.1/spring-osgi-core-1.2.1.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+@default-eclipse-repository-http\://repo1.maven.org/eclipse/.lastUpdated=1596074623142
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-core\:pom\:1.2.1 from/to spring-release (http\://maven.springframework.org/release)\: Access denied to\: http\://maven.springframework.org/release/org/springframework/osgi/spring-osgi-core/1.2.1/spring-osgi-core-1.2.1.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.error=
+@default-spring-release-http\://maven.springframework.org/release/.lastUpdated=1596074622794
+https\://repo.maven.apache.org/maven2/.lastUpdated=1596074624159
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://repository.springsource.com/maven/bundles/milestone/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074621251
+http\://repository.springsource.com/maven/bundles/milestone/.lastUpdated=1596074622329
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-core\:pom\:1.2.1 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/springframework/osgi/spring-osgi-core/1.2.1/spring-osgi-core-1.2.1.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1596074621787

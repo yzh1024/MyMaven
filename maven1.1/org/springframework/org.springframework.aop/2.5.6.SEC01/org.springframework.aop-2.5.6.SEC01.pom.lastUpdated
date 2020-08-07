@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:50 CST 2020
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.springframework\:org.springframework.aop\:pom\:2.5.6.SEC01 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/springframework/org.springframework.aop/2.5.6.SEC01/org.springframework.aop-2.5.6.SEC01.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074629183
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074628609
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1596074630019
+http\://repository.springsource.com/maven/bundles/external/.error=

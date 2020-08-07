@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:40 CST 2020
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.objectweb.asm\:com.springsource.org.objectweb.asm\:pom\:2.2.3 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/objectweb/asm/com.springsource.org.objectweb.asm/2.2.3/com.springsource.org.objectweb.asm-2.2.3.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074620299
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074619526

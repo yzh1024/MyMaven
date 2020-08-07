@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:38 CST 2020
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.apache.commons\:com.springsource.org.apache.commons.logging\:pom\:1.1.1 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074618991
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074618099

@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:04:20 CST 2020
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074656826
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1596074660066
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.eclipse.osgi\:org.eclipse.osgi\:pom\:3.2.2 from/to eclipse-repository (http\://repo1.maven.org/eclipse/)\: Failed to transfer file\: http\://repo1.maven.org/eclipse/org/eclipse/osgi/org.eclipse.osgi/3.2.2/org.eclipse.osgi-3.2.2.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+@default-eclipse-repository-http\://repo1.maven.org/eclipse/.lastUpdated=1596074659490
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.eclipse.osgi\:org.eclipse.osgi\:pom\:3.2.2 from/to spring-release (http\://maven.springframework.org/release)\: Access denied to\: http\://maven.springframework.org/release/org/eclipse/osgi/org.eclipse.osgi/3.2.2/org.eclipse.osgi-3.2.2.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.error=
+@default-spring-release-http\://maven.springframework.org/release/.lastUpdated=1596074659146
+https\://repo.maven.apache.org/maven2/.lastUpdated=1596074660818
+https\://repo.maven.apache.org/maven2/.error=
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://repository.springsource.com/maven/bundles/milestone/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074657400
+http\://repository.springsource.com/maven/bundles/milestone/.lastUpdated=1596074658690
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.eclipse.osgi\:org.eclipse.osgi\:pom\:3.2.2 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/eclipse/osgi/org.eclipse.osgi/3.2.2/org.eclipse.osgi-3.2.2.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1596074658123
