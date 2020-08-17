@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:04:27 CST 2020
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074663316
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1596074667340
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.springframework.osgi\:log4j.osgi\:pom\:1.2.15-SNAPSHOT from/to eclipse-repository (http\://repo1.maven.org/eclipse/)\: Failed to transfer file\: http\://repo1.maven.org/eclipse/org/springframework/osgi/log4j.osgi/1.2.15-SNAPSHOT/log4j.osgi-1.2.15-SNAPSHOT.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+@default-eclipse-repository-http\://repo1.maven.org/eclipse/.lastUpdated=1596074666661
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework.osgi\:log4j.osgi\:pom\:1.2.15-SNAPSHOT from/to spring-release (http\://maven.springframework.org/release)\: Access denied to\: http\://maven.springframework.org/release/org/springframework/osgi/log4j.osgi/1.2.15-SNAPSHOT/log4j.osgi-1.2.15-SNAPSHOT.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.error=
+@default-spring-release-http\://maven.springframework.org/release/.lastUpdated=1596074666306
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074663833
+http\://repository.springsource.com/maven/bundles/milestone/.error=
+http\://repository.springsource.com/maven/bundles/milestone/.lastUpdated=1596074665862
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1596074664353
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.springframework.osgi\:log4j.osgi\:pom\:1.2.15-SNAPSHOT from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/springframework/osgi/log4j.osgi/1.2.15-SNAPSHOT/log4j.osgi-1.2.15-SNAPSHOT.pom , ReasonPhrase\:Forbidden.

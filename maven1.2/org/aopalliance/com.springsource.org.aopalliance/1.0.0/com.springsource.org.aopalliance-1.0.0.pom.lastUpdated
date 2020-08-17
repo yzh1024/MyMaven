@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:51 CST 2020
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.aopalliance\:com.springsource.org.aopalliance\:pom\:1.0.0 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.pom , ReasonPhrase\:Forbidden.
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074631187
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074630511

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 13 14:38:11 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597300691950
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact error\:error\:pom\:unknown from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

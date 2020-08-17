@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 30 10:03:20 CST 2020
+@default-i21-s3-osgi-repo-http\://maven.springframework.org/osgi/.lastUpdated=1596074598823
+@default-com.springsource.repository.bundles.release-http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1596074598831
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1596074600097
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to eclipse-repository (http\://repo1.maven.org/eclipse/)\: Failed to transfer file\: http\://repo1.maven.org/eclipse/org/springframework/org.springframework.context/2.5.6.SEC01/org.springframework.context-2.5.6.SEC01.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+@default-eclipse-repository-http\://repo1.maven.org/eclipse/.lastUpdated=1596074599590
+http\://repository.springsource.com/maven/bundles/release/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to com.springsource.repository.bundles.release (http\://repository.springsource.com/maven/bundles/release)\: repository.springsource.com
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to spring-release (http\://maven.springframework.org/release)\: Access denied to\: http\://maven.springframework.org/release/org/springframework/org.springframework.context/2.5.6.SEC01/org.springframework.context-2.5.6.SEC01.pom , ReasonPhrase\:Forbidden.
+@default-spring-release-http\://maven.springframework.org/release/.lastUpdated=1596074599258
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: repository.springsource.com
+@default-com.springsource.repository.bundles.external-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1596074598828
+https\://repo.maven.apache.org/maven2/.lastUpdated=1596074600300
+https\://repo.maven.apache.org/maven2/.error=
+https\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://repository.springsource.com/maven/bundles/milestone/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to com.springsource.repository.bundles.milestone (http\://repository.springsource.com/maven/bundles/milestone)\: repository.springsource.com
+http\://maven.springframework.org/osgi/.error=Could not transfer artifact org.springframework\:org.springframework.context\:pom\:2.5.6.SEC01 from/to i21-s3-osgi-repo (http\://maven.springframework.org/osgi)\: Access denied to\: http\://maven.springframework.org/osgi/org/springframework/org.springframework.context/2.5.6.SEC01/org.springframework.context-2.5.6.SEC01.pom , ReasonPhrase\:Forbidden.
+@default-com.springsource.repository.bundles.milestone-http\://repository.springsource.com/maven/bundles/milestone/.lastUpdated=1596074598836
